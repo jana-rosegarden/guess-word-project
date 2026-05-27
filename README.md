@@ -26,4 +26,4 @@ npm run dev
 
 
 ## 📸 Screenshot
-![App Screenshot](./public/screenshot.png)
+![App Screenshot](./public/game-screenshot.png)
