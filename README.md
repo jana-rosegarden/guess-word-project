@@ -24,4 +24,4 @@ npm run dev
 ```
 
 ## 📸 Screenshot
-![Guess word game screenshot](./screenshot.png)
+![test](./test.jpg)
