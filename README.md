@@ -1,5 +1,4 @@
 # Guess Word Game
-
 A small word guessing game where the player answers questions by guessing the correct word letter by letter.
 
 ## 🔧 Tech Stack
@@ -15,7 +14,6 @@ A small word guessing game where the player answers questions by guessing the co
 - Restart the game at any time
 - Simple and responsive user interface
 
-
 ## 🚀 Live Demo
 https://guess-word-simple-game.netlify.app/
 
@@ -25,6 +23,6 @@ npm install
 npm run dev 
 ```
 
-
 ## 📸 Screenshot
-![App Screenshot](./screenshot2.png)
+
+
