@@ -14,7 +14,7 @@ A small word guessing game where the player answers questions by guessing the co
 - Maximum of 6 attempts per round
 - Restart the game at any time
 - Simple and responsive user interface
-- neue zeile
+
 
 ## 🚀 Live Demo
 https://guess-word-simple-game.netlify.app/
@@ -27,4 +27,4 @@ npm run dev
 
 
 ## 📸 Screenshot
-![App Screenshot](./screenshot2.png)
+![App Screenshot](./screenshot.png)
