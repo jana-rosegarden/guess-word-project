@@ -27,4 +27,4 @@ npm run dev
 
 
 ## 📸 Screenshot
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot2.png)
