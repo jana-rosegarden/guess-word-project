@@ -24,4 +24,4 @@ npm run dev
 ```
 
 ## 📸 Screenshot
-![test](./test.jpg)
+![Guess Word Screenshot](./screenshot.jpg)
